@@ -1,0 +1,21 @@
+# --- Core ---
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.9.2
+scikit-learn==1.5.2
+
+# --- Data Loading ---
+pyreadr==0.5.0
+
+# --- Dimensionality Reduction ---
+umap-learn==0.5.6
+
+# --- Utilities ---
+tqdm==4.66.5
+
+# --- Optional (solo si deseas notebooks o compatibilidad extra) ---
+jupyter==1.1.1
+ipykernel==6.29.5
+plotly
+seaborn
+gdown
